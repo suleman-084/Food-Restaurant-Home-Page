@@ -26,4 +26,4 @@ This project is hosted on netlify
 - How to position images in a web page
 - How to do padding
 
- <!-- ## [Live-Link](https://street-style-landing-page01.netlify.app/) of the project -->
+ ## [Live-Link](https://food-restaurant-home-page02.netlify.app/) of the project
